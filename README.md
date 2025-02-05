@@ -3,6 +3,7 @@
 ## Desciption
 
 Intellifit’s AI-driven performance evaluation and correction system provides professional-grade workout assistance by leveraging deep learning, pose estimation, and motion analysis. Using real-time video input from a camera, it employs frameworks like MediaPipe and OpenCV to detect key skeletal landmarks, analyzing them against an extensive database of ideal exercise forms. This allows Intellifit to identify deviations in posture, joint angles, or balance and deliver instant corrective feedback through visual, auditory, or haptic alerts.
+
 Beyond form correction, Intellifit tracks performance metrics such as range of motion, speed, and consistency, offering personalized recommendations based on fitness levels and goals. By ensuring proper execution, minimizing injury risks, and adapting to user progress, Intellifit transforms workouts into safe, efficient, and results-driven experiences with real-time, AI-powered precision.
 
 ## Technologies Used
